@@ -1,0 +1,18 @@
+cuando termines tu portafolio van a subir su codigo complete no en mitades complete me refiro a :
+
+<html>
+<head>
+
+<style>
+</style>
+
+</head>
+<body>
+
+<script>
+</script>
+
+</body>
+</html>
+
+guardarlo y subirlo en la carpeta de [ entrega de tareas ]

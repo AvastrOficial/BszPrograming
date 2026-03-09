@@ -1,0 +1,17 @@
+Create una cuenta en codepen.io 
+
+usaremos css , html y js
+
+tu primera tarea es un interfaz web estilo hacker portafolio de ustedes mismos
+
+QUE TENGA ESTO OBLIGATORIO :
+- Cual es su nombre artistico ?
+- Que Saben Hacer 
+- Cual Es Hobby
+- Que Estas Estudiando
+- Por que quiero ejercer como programador o hacker
+
+Poner el pie de la web : Bsz Team - Organizacion - Hackers By [ Nombre Artistico ]
+
+puedes apoyarte de i.a o con videos de yotube en el estilos , recuerden  tema es aprender y saber leer codigo 
+
